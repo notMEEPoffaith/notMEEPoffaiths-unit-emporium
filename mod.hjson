@@ -1,5 +1,5 @@
-name: "unit deconstructors"
-displayName: "Unit Deconstructors"
+name: "unit downgraders"
+displayName: "Unit Downgraders"
 author: "notMEEPoffaith"
 description: "so uh my old mod, dumb dump had one of these and it broke betamindy via infinite loop so im moving them here."
 version: "1.0"
