@@ -3,6 +3,6 @@ displayName: "Unit Downgraders"
 author: "notMEEPoffaith"
 description: "so uh my old mod, dumb dump had one of these and it broke betamindy via infinite loop so im moving them here."
 version: "1.0"
-minGameVersion: "128"
+minGameVersion: "127"
 dependencies: [ ]
 hidden: false
