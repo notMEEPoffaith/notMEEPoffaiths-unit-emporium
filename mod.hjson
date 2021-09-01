@@ -1,8 +1,8 @@
 name: "unit downgraders"
 displayName: "Unit Downgraders"
 author: "notMEEPoffaith"
-description: "so uh my old mod, dumb dump had one of these and it broke betamindy via infinite loop so im moving them here."
-version: "1.0"
-minGameVersion: "126"
+description: "so uh my old mod, dumb dump had one of these and it broke betamindy via infinite loop so im moving them here. NOW WITH A DIVISIVE VERSION!"
+version: "1.1"
+minGameVersion: "127"
 dependencies: [ ]
 hidden: false
