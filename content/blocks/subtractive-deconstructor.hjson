@@ -22,11 +22,6 @@ upgrades: [
 ]
 consumes: {
  power: 3
- items: {
-    items: [
-      copper/0
-    ]
- }
  liquid: {
    liquid: slag
    amount: 0.1
