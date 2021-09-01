@@ -15,7 +15,7 @@ requirements: [
 upgrades: [
  [quasar, pulsar]
  [fortress, mace]
- [sprioct, atrax]
+ [spiroct, atrax]
  [zenith, horizon]
  [mega, poly]
  [bryde, minke]
