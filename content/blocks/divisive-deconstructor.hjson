@@ -1,0 +1,38 @@
+type: Reconstructor
+localizedName: "Divisive Deconstructor"
+health: 360
+description: Downgrades units back to the second tier. For if you don't like the T3 units for some reason.
+details: It uses the slag to melt down the harder to deconstruct stuff, like the Subtractive version.
+size: 5
+itemCapacity: 80
+constructTime: 1600
+requirements: [
+ lead/650
+ silicon/450
+ titanium/350
+ thorium/650
+]
+upgrades: [
+ [quasar, pulsar]
+ [fortress, mace]
+ [sprioct, atrax]
+ [zenith, horizon]
+ [mega, poly]
+ [bryde, minke]
+ [cyerce, oxynoe]
+]
+consumes: {
+ power: 6
+ items: {
+    items: [
+      copper/0
+    ]
+ }
+ liquid: {
+   liquid: slag
+   amount: 0.2
+ }
+}
+category: units
+research: subtractive-deconstructor
+researched: multiplicative-reconstructor
