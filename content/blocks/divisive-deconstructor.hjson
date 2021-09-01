@@ -1,6 +1,6 @@
 type: Reconstructor
 localizedName: "Divisive Deconstructor"
-health: 360
+health: 1000
 description: Downgrades units back to the second tier. For if you don't like the T3 units for some reason.
 details: It uses the slag to melt down the harder to deconstruct stuff, like the Subtractive version.
 size: 5
