@@ -1,7 +1,7 @@
-name: "unit downgraders"
-displayName: "Unit Downgraders"
+name: "notmeepoffaith's unit emporium"
+displayName: "NOTMeepoffaith's Unit Emporium"
 author: "notMEEPoffaith"
-description: "so uh my old mod, dumb dump had one of these and it broke betamindy via infinite loop so im moving them here. NOW WITH A DIVISIVE VERSION!"
+description: "More content coming soon!"
 version: "1.1"
 minGameVersion: "127"
 dependencies: [ ]
