@@ -22,6 +22,11 @@ upgrades: [
 ]
 consumes: {
  power: 3
+  items: {
+   items: [
+    copper/100
+    lead/60
+    silicon/45
  liquid: {
    liquid: slag
    amount: 0.1
