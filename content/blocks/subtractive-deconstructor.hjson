@@ -24,8 +24,8 @@ consumes: {
  power: 3
   items: {
    items: [
-    silicon/20
-    graphite/20
+    silicon/-20
+    graphite/-20
  liquid: {
    liquid: slag
    amount: 0.1
