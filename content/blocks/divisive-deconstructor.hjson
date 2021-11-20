@@ -25,9 +25,9 @@ consumes: {
  power: 6
   items: {
    items: [
-    silicon/65
-    titanium/40
-    metaglass/20
+    silicon/-65
+    titanium/-40
+    metaglass/-20
  liquid: {
    liquid: slag
    amount: 0.2
